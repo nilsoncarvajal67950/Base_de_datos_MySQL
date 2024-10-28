@@ -475,4 +475,3 @@ CREATE TABLE Envio (
   CONSTRAINT FK_AuxiliarEnvio FOREIGN KEY (IdAuxiliar_fk) REFERENCES Auxiliar(Id)
 );
 ```
-# BASE DE DATOS
